@@ -4,3 +4,5 @@
 ### Fonte: [Nobel Prize]("http://api.nobelprize.org/v1")
 
 **Tecnologis**
+>MongoDB
+>Python
